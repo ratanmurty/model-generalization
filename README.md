@@ -5,11 +5,12 @@
 
 1) Install brain-score candidate models: https://github.com/brain-score/candidate_models
 2) Set brain-score environment variables in extract_features.py
+3) Change your TF_slim path in extract_features.sh (tf_slim_path variable)
+
 
 # To extract features for all models on brain-score/pytorch and save as .h5:
 
-1) Change your TF_slim path in extract_features.sh (tf_slim_path variable)
-2) Run 
+Run 
 
 ```
  ./extract_all_features.sh stims_path save_path
