@@ -3,7 +3,7 @@
 #SBATCH -t 72:0:0
 
 tf_slim_path=/mindhive/nklab4/users/ighodgao
-script_path=/mindhive/nklab4/users/ighodgao/projects/model_generalization
+script_path=.
 
 source ~/.bashrc
 conda activate "brain-score"
