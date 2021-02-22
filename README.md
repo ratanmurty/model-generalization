@@ -35,5 +35,6 @@ e.g.
  python extract_features.py --images_path --save_dir --model 
  ```
 
-where model is the model name
+Where model is the model name (all models available on brain-score) + pytorch
+
  
