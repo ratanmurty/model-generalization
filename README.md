@@ -1,6 +1,6 @@
 # model-generalization
 
-# feature_extraction
+## feature_extraction folder
 Contains a wrapper script for existing code to extract features for a given dataset + model/models
 
 ## Prerequisite
